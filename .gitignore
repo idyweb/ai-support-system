@@ -13,3 +13,8 @@ wheels/
 credentials.json
 node_modules/
 dashboard/dist/
+
+.env.*
+!.env.example
+.memory/
+.DS_Store
